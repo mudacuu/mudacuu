@@ -4,7 +4,7 @@
 
 <br><br>
 
-# ohms
+# mudaccu
 
 <samp>
 
