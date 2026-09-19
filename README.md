@@ -1,16 +1,27 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**mudacuu/mudacuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="header.png"/>
 
-Here are some ideas to get you started:
+<br><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# ohms
+
+<samp>
+
+experimenting . prof skidder
+
+<br>
+
+<a href="https://discord.com/users/1310428817130782777">
+  <img src="https://img.shields.io/badge/Discord-white?style=for-the-badge&logo=discord&logoColor=black">
+</a>
+
+<a href="https://t.me/nerdholiccc">
+  <img src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=telegram&logoColor=black">
+</a>
+
+<a href="https://instagram.com/cxrps7w">
+  <img src="https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=black">
+</a>
+
+</div>
